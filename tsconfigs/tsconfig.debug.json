@@ -4,9 +4,7 @@
         "module": "AMD",
         "sourceMap": true,
         "types": [
-            "requirejs",
-            "gl-matrix",
-            "planck-js"
+            "requirejs"
         ],
         "moduleResolution": "node"
     }
